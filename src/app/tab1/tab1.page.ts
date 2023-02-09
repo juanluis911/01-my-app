@@ -9,4 +9,12 @@ export class Tab1Page {
 
   constructor() {}
 
+  ngOnInit() {
+    console.log('Hola Mundo');
+    
+    var x = 1;
+
+    x = 100
+  }
+
 }
